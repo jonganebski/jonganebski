@@ -6,4 +6,4 @@ Always explore and learn.
 Main Stack  
 Reactjs  
 Nodejs  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />

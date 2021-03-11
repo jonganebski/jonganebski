@@ -1,4 +1,4 @@
-## Jon Ganebski: Web Developer
+## Jon Ganebski: Web Developer 
 
 With interests in both Frontend and Backend,  
 Always explore and learn.

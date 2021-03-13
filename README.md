@@ -1,13 +1,13 @@
 ## Jon Ganebski: Web Developer 
 
 With interests in both Frontend and Backend,  
-Always explore and learn.
+Always explore and learn. 
 
-### Main Stack  
+### 🔥 Main Stack  
 Reactjs  
 Nodejs  
 
-### Sub Stack
+### 🌈 Sub Stack
 Django-rest-framework  
 Golang
 

@@ -11,6 +11,6 @@ Nodejs
 Django-rest-framework  
 Golang
 
-<a href="https://jonganebski.github.io/" target="_blank">
+<a href="https://jonganebski.github.io/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Blog-red?style=flat&logo=github" />
 </a>

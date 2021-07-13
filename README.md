@@ -4,8 +4,8 @@ With interests in both Frontend and Backend,
 Always explore and learn. 
 
 ### Main Stack  
-Reactjs
-Vuejs
+Reactjs  
+Vuejs  
 Nodejs  
 
 ### Sub Stack
